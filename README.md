@@ -1,4 +1,4 @@
-# checking_fibonacci
+# Fibonaaci Series
 
 Generating the Fibonacci sequence is a classic recursive problem. Recursion is when a function refers to itself to break down the problem it’s trying to solve. 
 
